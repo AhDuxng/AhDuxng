@@ -35,30 +35,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhDung&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🔭 Current Focus
-- 🌱 Learning advanced algorithms and data structures
-- 💡 Building web applications with modern frameworks
-- 🔧 Developing system-level applications with C/C++
-- 📚 Exploring new programming paradigms
-
-## 🤝 Let's Connect & Collaborate
-
-I'm always open to:
-- 🚀 **Open Source Projects** - Contributing to meaningful projects
-- 💻 **Code Reviews** - Sharing knowledge and learning from others
-- 🎯 **Problem Solving** - Tackling challenging coding problems
-- 🌐 **Web Development** - Building modern, responsive applications
-
-## 📫 How to Reach Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhDung)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-## ⚡ Fun Facts
-- 🎮 I love solving coding challenges in my free time
-- 📖 Always reading about new technologies and best practices
-- 🔍 Enjoy optimizing code for better performance
-- 🌟 Believe in writing clean, maintainable code
-
----
-
