@@ -1,10 +1,5 @@
 # Hi there! 👋 I'm AhDung
 
-## 🚀 About Me
-- 💻 Passionate Developer with expertise in multiple programming languages
-- 🌟 Love building efficient solutions and learning new technologies
-- 🎯 Always excited to collaborate on interesting projects
-
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
