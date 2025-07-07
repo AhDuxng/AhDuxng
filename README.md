@@ -31,7 +31,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhDung&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhDung&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+### Most Used Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
 
