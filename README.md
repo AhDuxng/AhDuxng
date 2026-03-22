@@ -6,10 +6,10 @@
 
 ---
 
-- 💻 I'm a **Software Developer** with a passion for building web applications.
-- 🚀 Currently working with **Next.js, Vue, and Node.js**.
-- 🛠 Exploring **Database Design** with Supabase & MongoDB.
-- ⚡ I love using **Tailwind CSS** to build beautiful UIs.
+- I'm a **Software Developer** with a passion for building web applications.
+- Currently working with **Next.js, Vue, and Node.js**.
+- Exploring **Database Design** with Supabase & MongoDB.
+- I love using **Tailwind CSS** to build beautiful UIs.
 
 ---
 
@@ -46,6 +46,3 @@
   </a>
 </div>
 
-![](https://stats.justsong.cn/api?id=AhDuxng&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhDuxng&layout=compact&theme=dark)
