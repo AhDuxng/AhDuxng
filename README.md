@@ -46,6 +46,6 @@
   </a>
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhDuxng&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhDuxng&show_icons=true&theme=dark&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhDuxng&layout=compact&theme=dark)
