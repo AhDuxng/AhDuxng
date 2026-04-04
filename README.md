@@ -40,7 +40,6 @@ I am a software developer with a broad interest in how systems are built and ope
 
 **AI & Intelligent Networking**<br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-8A2BE2?style=for-the-badge)
 ![Network Protocols](https://img.shields.io/badge/Network_Protocols-07405E?style=for-the-badge)
 ![AI-Driven Analysis](https://img.shields.io/badge/AI--Driven_Analysis-4B0082?style=for-the-badge)
 
