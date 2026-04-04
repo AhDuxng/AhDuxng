@@ -1,48 +1,44 @@
-### Hi there 👋, I'm Pham Anh Dung!
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Web+Developer;Software+Developer;React+%26+Vue+Enthusiast;Always+Learning" alt="Typing SVG" />
-</div>
+# Pham Anh Dung
+**Software Engineer | Full-Stack Architecture & Intelligent Systems**
 
 ---
 
-- I'm a **Software Developer** with a passion for building web applications.
-- Currently working with **Next.js, Vue, and Node.js**.
-- Exploring **Database Design** with Supabase & MongoDB.
-- I love using **Tailwind CSS** to build beautiful UIs.
+I am a software developer with a broad interest in how systems are built and operated. My daily work usually involves piecing together different technologies, from writing backend logic and managing web services to experimenting with applied machine learning and network concepts. I have had the opportunity to work on varied projects, including medical imaging applications and infrastructure routing. Ultimately, I enjoy the process of learning new tools and making systems work cohesively.
+
+### Technical Expertise
+
+**Languages**
+TypeScript, Python, JavaScript, C
+
+**Backend & Systems Architecture**
+Node.js, Express, RESTful API Design, Microservices concepts
+*Focus: Security optimization, asynchronous processing, and robust authentication flows.*
+
+**Frontend Engineering**
+React, Next.js, Tailwind CSS
+*Focus: Server-Side Rendering (SSR), responsive UIs, and state management.*
+
+**Data & Infrastructure**
+MongoDB, Supabase, Docker, Nginx, Caddy
+*Focus: Containerized deployment, reverse proxy configuration, and database design.*
+
+**AI & Intelligent Networking**
+PyTorch, Computer Vision, Network Protocols, AI-Driven Network Analysis
+*Focus: Medical imaging automation, applying machine learning to network optimization, and model deployment.*
+
+**Tools**
+Git, Postman, Linux CLI
 
 ---
 
-### Tech Stack
+### Current Focus & Engineering Interests
 
-<div align="center">
+* **System Architecture:** Designing and deploying containerized full-stack applications with Docker.
+* **AI in Healthcare:** Automating spinal image diagnostics to assist radiologists using deep learning.
+* **Intelligent Networking & Low-Level Systems:** Applying machine learning concepts to computer networks and deepening memory management skills via C programming.
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+---
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+### Connect & Collaborate
 
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center"> 
-  <a href="https://duxng.io.vn/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-duxng.io.vn-blue?style=flat&logo=google-chrome" alt="Website" />
-  </a>
-  <a href="mailto:dungpham.coding@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dungpham.coding@gmail.com-c14438?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
+[Website: duxng.io.vn](https://duxng.io.vn/) | [Email: dungpham.coding@gmail.com](mailto:dungpham.coding@gmail.com)
