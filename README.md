@@ -19,7 +19,6 @@ I am a software developer with a broad interest in how systems are built and ope
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-005C84?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-008080?style=for-the-badge)
 
 *Focus: Security optimization, asynchronous processing, and robust authentication flows.*
 
